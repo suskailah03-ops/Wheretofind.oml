@@ -2,6 +2,7 @@
 
 **System Access Credentials**
 This section presents the system access credentials used for demonstration, testing, and evaluation of the WhereToFind: A Web-Based Hardware Store Locator and Price List System. The credentials listed below were created exclusively for academic and capstone presentation purposes.
+
 **A. WhereToFind Web System Credentials**
 The following accounts were configured to demonstrate the different user roles within the WhereToFind system.
 *Administrator Account*
@@ -24,5 +25,6 @@ The following credentials provide access to the OutSystems Service Studio enviro
 Email / Username: wheretofind.dev@gmail.com
 Password: Outsystems@123
 This account grants developer-level access, including application logic, screen design, database entities, and workflow management.
+
 **C. Security and Usage Notice**
 All credentials presented in this document are intended solely for academic demonstration and evaluation purposes. These accounts do not contain real user data. In an actual deployment environment, default credentials must be replaced, and additional security measures such as encrypted passwords, access logging, and multi-factor authentication should be implemented.
